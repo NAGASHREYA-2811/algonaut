@@ -1,0 +1,15 @@
+{
+  "arrays": ["Two Sum [Easy]", "Maximum Subarray [Medium]"],
+  "strings": ["Valid Anagram [Easy]", "Longest Substring Without Repeating Characters [Medium]"],
+  "linked lists": ["Reverse Linked List [Easy]", "Merge Two Sorted Lists [Easy]"],
+  "stacks and queues": ["Valid Parentheses [Easy]", "Daily Temperatures [Medium]"],
+  "trees": ["Binary Tree Inorder Traversal [Easy]", "Maximum Depth of Binary Tree [Easy]"],
+  "graphs": ["Number of Islands [Medium]", "Clone Graph [Medium]"],
+  "hashing": ["Top K Frequent Elements [Medium]", "Group Anagrams [Medium]"],
+  "recursion": ["Factorial [Easy]", "Fibonacci [Easy]"],
+  "dynamic programming": ["Climbing Stairs [Easy]", "Longest Palindromic Substring [Medium]"],
+  "greedy": ["Jump Game [Medium]", "Gas Station [Medium]"],
+  "sliding window": ["Minimum Window Substring [Hard]", "Maximum Sliding Window [Hard]"],
+  "two pointers": ["3Sum [Medium]", "Container With Most Water [Medium]"],
+  "binary search": ["Binary Search [Easy]", "Find Minimum in Rotated Sorted Array [Medium]"]
+}

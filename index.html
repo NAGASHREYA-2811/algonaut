@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AlgoNaut</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <div class="quote">"Crack logic, break limits. Welcome to AlgoNaut."</div>
+    <h1 class="title">AlgoNaut</h1>
+    <div class="grid">
+      {% for topic in topics %}
+        <a class="card" href="/topic/{{ topic|lower }}">{{ topic }}</a>
+      {% endfor %}
+    </div>
+    <footer>built by Naga Shreya</footer>
+  </body>
+</html>

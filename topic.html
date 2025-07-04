@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ topic }} Problems</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <h1>{{ topic }} Problems</h1>
+  <ul>
+    {% for problem in problems %}
+      <li><input type="checkbox" /> {{ problem }}</li>
+    {% endfor %}
+  </ul>
+  <a href="/">← Back to Topics</a>
+</body>
+</html>
